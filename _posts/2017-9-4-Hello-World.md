@@ -8,5 +8,3 @@ I started this blog with a simple vision: to explain the world that I was witnes
 I don't claim to be an expert. On the contrary, I want to give the perspective of a newcomer, someone who'll be lost and get things wrong, someone who's stumbling over the material and trying to find the best way to explain what he's learning. If you read something and think "that doesn't sound right," it might be perfectly legitimate, and I want to know about it. Any and all criticism are highly encouraged and welcome. Even if you want to just throw some angry epithets my way, please do. God knows my ego could use a check. 
 
 With that, the races are off. 
-
-_A little about me._ I'm currently a law student and on track to become a lawyer. I'm in my mid-twenties. This site doesn't use my real name, as I truly believe in the value of pseudonyms and the ability to speak your mind without people in your daily life realizing how crazy you really are. That's something I only share with family, close friends, and apparently the public internet. I assume, though, if you cared enough you could find it somehow, and at that point you deserve to know too.
