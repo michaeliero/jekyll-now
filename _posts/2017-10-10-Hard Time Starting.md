@@ -1,7 +1,7 @@
---
+---
 layout: post
 title: Hard Time Starting
---
+---
 
 I've had a hard time trying to fit into my schedule writing these blog posts, and life recently hasn't made that easy on myself. A myriad of intense classwork, bed bugs, getting sick, and pure inertia has kept me from writing regularly. Working on habits is hard. But I'll keep at it and try to fit this in.
 
