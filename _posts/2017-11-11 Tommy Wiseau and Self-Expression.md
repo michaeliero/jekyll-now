@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Figure Spotlight: Tommy Wiseau
+title: Tommy Wiseau and Self-Expression
 ---
 As a first matter, here's my attempt to continue with writing every day (or at least more regularly than once a month, the previous pace I was setting). I'm working on a few things that I need some time to digest and think about before I'm going to be competent enough to explain—specifically reading Ludwig Wittgenstein's Philosophical Investigations, and that's turning out to be a hard slough (but completely revamping my thinking). Once I have my head wrapped around his ideas and theories, I'll have some posts about his ideas, but that might not be for a while.
 
