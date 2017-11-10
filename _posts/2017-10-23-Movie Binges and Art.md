@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Movie Binge and Art
+title: Movie Binges and Art
 ---
 These past 3 days I went on an 11 movie binge, trying to finish off this list that I started in 2014. In the course of these 3 years, I've watched about 150 movies in an attempt of a sort of cultural education. What have I learned? Other than that you have a ton of free time on your hands when you're single, I think I learned a few main things:
 
