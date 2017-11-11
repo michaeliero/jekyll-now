@@ -28,9 +28,11 @@ Finally, in any triangle, an exterior angle equals the sum of the opposite inter
 ![Exterior Angle](/images/Exterior%20Angle.png)
 
 Here's my informal proof for this:
+
 $$
-	C + D = 180 degrees \\
-	A + B + C = 180 degrees \\
+	C + D = 180 \text{ degrees} \\
+	A + B + C = 180 \text{ degrees} \\
+	\text{Substitute 180 degrees with C + D} \\
 	A + B + C = C + D \\
 	A + B = D
 $$
