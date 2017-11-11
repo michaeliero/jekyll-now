@@ -13,26 +13,24 @@ One degree is equal to 1/90th of a right angle. That's just the definition. Acce
 
 When a line cuts across parallel lines, then the corresponding angles are equal to each other. The alternate itnerior angles are equal as well:
 
-![title](michaeliero.github.io/images/Transveral%20Line%20and%20Angles.png)
+![Transversal Line](/images/Transveral%20Line%20and%20Angles.png)
 
 This line that cuts through the parallel lines is called a "transversal."
 
 From this, we can conclude that the sum of angles in any triangle is 180 degrees. Here's the proof:
 
-![title](michaeliero.github.io/images/Proof%20for%20180%20Degrees%20for%20Triangles.png)
+![Proof for 180 Degrees Triangles](/images/Proof%20for%20180%20Degrees%20for%20Triangles.png)
 
 This means that the sum of the acute angles in a right triangle is 90 degrees (because the right angle is itself 90 degrees, and that leaves 90 degrees left for the two other angles to fill in).
 
 Finally, in any triangle, an exterior angle equals the sum of the opposite interior angles:
 
-![title](michaeliero.github.io/images/Exterior%20Angle.png)
+![Exterior Angle](/images/Exterior%20Angle.png)
 
 Here's my informal proof for this:
 $$
-	C + D &= 180 degrees \\
-	A + B + C &= 180 degrees \\
-	
-	Substitute 180 degrees with C + D:
-	A + B + C &= C + D \\
-	A + B &= D
+	C + D = 180 degrees \\
+	A + B + C = 180 degrees \\
+	A + B + C = C + D \\
+	A + B = D
 $$
