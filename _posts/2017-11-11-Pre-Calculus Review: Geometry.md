@@ -35,4 +35,5 @@ $$ \begin{align}
 	Substitute 180 degrees with C + D:
 	A + B + C &= C + D \\
 	A + B &= D
+	\end{align}
 $$
