@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pre-Calculus Review: Geometry
+title: Pre-Calculus Review—Geometry
 ---
 Finally beginning this. Here is my pre-calculus review, in preparation for my calculus review. Will try to put this up at some type of regular interval. I want to reiterate that I'm in no way an expert on this material—in fact, I'm probably not qualified to discuss this—but this is just my understanding of it. If you have any comments, questions, angry reactions, etc., please let me know. Here goes:
 
@@ -28,12 +28,11 @@ Finally, in any triangle, an exterior angle equals the sum of the opposite inter
 ![title](file:///Users/AMP/Desktop/GitHub%20Repository/michaeliero.github.io/images/Exterior%20Angle.png)
 
 Here's my informal proof for this:
-$$ \begin{align} 
+$$
 	C + D &= 180 degrees \\
 	A + B + C &= 180 degrees \\
 	
 	Substitute 180 degrees with C + D:
 	A + B + C &= C + D \\
 	A + B &= D
-	\end{align}
 $$
