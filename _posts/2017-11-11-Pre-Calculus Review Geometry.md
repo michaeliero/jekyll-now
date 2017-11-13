@@ -32,16 +32,15 @@ Here's my informal proof for this:
 $$
 	C + D = 180 \text{ degrees} \\
 	A + B + C = 180 \text{ degrees} \\
-	\text{Substitute 180 degrees with C + D} \\
 	A + B + C = C + D \\
 	A + B = D
 $$
 
 ### Area
 
-The area for an arbitrary rectangle is \(A=hb\), where A = area, h = height, and b = base. Don't have a proof for this—just accept it.
+The area for an arbitrary rectangle is \\(A=hb\\), where A = area, h = height, and b = base. Don't have a proof for this—just accept it.
 
-The area of a right triangle is \(A = \frac{1}{2}hb\). Again, just something you have to accept, though I'm sure there's a formal proof relating to the area of a rectangle—any arbitrary right triangle can be half of any arbitrary rectangle that is divided by a diagonal line, so it makes that the area of that right triangle would be half of that rectangle. 
+The area of a right triangle is \\(A = \frac{1}{2}hb\\). Again, just something you have to accept, though I'm sure there's a formal proof relating to the area of a rectangle—any arbitrary right triangle can be half of any arbitrary rectangle that is divided by a diagonal line, so it makes that the area of that right triangle would be half of that rectangle. 
 
 Any triangle can be viewed as the sum or difference of two right triangles:
 
@@ -49,7 +48,7 @@ Any triangle can be viewed as the sum or difference of two right triangles:
 
 If the base of a triangle is held fixed and the upper vertex is moved back and forth across a parallel line, then the area of that triangle doesn't change.
 
-![Fixed Area Triangles](/images/Fixed%20of%20Triangles.png)
+![Fixed Area Triangles](/images/Fixed%20Area%20Triangles.png)
 
 This makes sense when you think of the fact that the height and the base don't actually change when you move that upper vertex. The only things that change are the angles and the lengths of the sides, not the area.
 
