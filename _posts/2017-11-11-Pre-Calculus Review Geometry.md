@@ -52,3 +52,39 @@ If the base of a triangle is held fixed and the upper vertex is moved back and f
 
 This makes sense when you think of the fact that the height and the base don't actually change when you move that upper vertex. The only things that change are the angles and the lengths of the sides, not the area.
 
+###Similarity
+
+Two triangles are similar if they have have the same shape but are different sizes. The precise meaning is that the corresponding angles must be equal. This implies that the ratios of their sides must also be equal.
+
+![Similar Triangles](/images/Similar%20Triangles.png)
+$$
+\frac{a}{d} = \frac{b}{e} = \frac{c}{f} \\
+\text{ OR } \\
+\frac{a}{b} = \frac{d}{e}
+$$
+
+[Note that the triangles above aren't actually similar—I'm very bad at drawing pictures and I didn't know how to copy the one triangle and blow it up, so I just tried to draw a similar triangle. Just pretend they're similar according to the definition]
+
+If two triangles are similar, then the ratio of any two sides of one triangle equals the corresponding ratios of the other sides. It's about the *ratios*
+for the sides.
+
+Note that two triangles are necessarily similar if two pairs of corresponding angles are equal. This makes intuitive sense, given that if two of the angles are equal, and if the sum of the three angles will be 180 degrees, then the size of the third angle will be determined once you're given the two other angles.
+
+Also, the ratio of areas between two similar triangles equals the ratio of the squares of any pair of corresponding sides.
+
+Proof:
+$$
+A_1 = \frac{1}{2}h_1b\\
+A_2 = \frac{1}{2}h_2e \\
+\frac{A_1}{A_2} = \frac{\frac{1}{2}h_1b}{\frac{1}{2}h_2e} = \left( \frac{h_1}{h_2} \right) \left( \frac{b}{e} \right) = \left( \frac{b}{e} \right) \left( \frac{b}{e} \right) = \frac{b^2}{e^2}
+$$
+
+This makes intuitive sense too. Since the ratio of the sides would be \(frac{b}{e}\), it would make sense that the ratio of the areas would be the the same as the ratios of the squares of the sides too. The ratio of the sides would be relevant, but when it's squared, it puts the side ratio in the same dimension as the area ratio. [If that makes sense—it's not a formal mathematical statement, just something I observed and think is an interesting connection.]
+
+
+
+
+
+
+
+
