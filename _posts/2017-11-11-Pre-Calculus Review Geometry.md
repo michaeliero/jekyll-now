@@ -9,7 +9,7 @@ The hardest thing for me when it comes to math is to memorize the various rules 
 
 ## Geometry
 ### Triangles
-####Sum of Angles
+#### Sum of Angles
 One degree is equal to 1/90th of a right angle. That's just the definition. Accept it. There might be a reason for this, but I don't know it. This also means that two right angles together make up 180 degrees. From this, the intuition arises that when angles form a straight line, the sum of the angles is 180 degrees (because that's what two right angles form when put together). There's probably a more mathematical way to describe this, but again I'm just an amateur, and that's how I explain it.
 
 When a line cuts across parallel lines, then the corresponding angles are equal to each other. The alternate itnerior angles are equal as well:
@@ -53,7 +53,7 @@ If the base of a triangle is held fixed and the upper vertex is moved back and f
 
 This makes sense when you think of the fact that the height and the base don't actually change when you move that upper vertex. The only things that change are the angles and the lengths of the sides, not the area.
 
-####Similarity
+#### Similarity
 
 Two triangles are similar if they have have the same shape but are different sizes. The precise meaning is that the corresponding angles must be equal. This implies that the ratios of their sides must also be equal.
 
@@ -80,7 +80,7 @@ A_2 = \frac{1}{2}h_2e \\
 \frac{A_1}{A_2} = \frac{\frac{1}{2}h_1b}{\frac{1}{2}h_2e} = \left( \frac{h_1}{h_2} \right) \left( \frac{b}{e} \right) = \left( \frac{b}{e} \right) \left( \frac{b}{e} \right) = \frac{b^2}{e^2}
 $$
 
-This makes intuitive sense too. Since the ratio of the sides would be \\(frac{b}{e}\\), it would make sense that the ratio of the areas would be the the same as the ratios of the squares of the sides too. The ratio of the sides would be relevant, but when it's squared, it puts the side ratio in the same dimension as the area ratio. [If that makes sense—it's not a formal mathematical statement, just something I observed and think is an interesting connection.]
+This makes intuitive sense too. Since the ratio of the sides would be \\(\frac{b}{e}\\), it would make sense that the ratio of the areas would be the the same as the ratios of the squares of the sides too. The ratio of the sides would be relevant, but when it's squared, it puts the side ratio in the same dimension as the area ratio. [If that makes sense—it's not a formal mathematical statement, just something I observed and think is an interesting connection.]
 
 
 
